@@ -17,8 +17,10 @@ THE PROGRAMS:
   - Once you hit 'y' for yes, the chosen show/movie will start running through VLC and 
      go into full screen.
   - When the show or movie is finished VLC closed and the program ends.
+  - Option 3. Loop, does exactly what the loopShow.py program does. 
   
 - loopShow.py
+  - This is a standalone program of option 3. of W2W.py
   - This program asks you how many times to loop tv shows.
   - Once the number (x) is chosen, it will play (x) amount of Tv-shows back to back
      this is played in VLC and opens full screen.
