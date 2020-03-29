@@ -7,9 +7,8 @@ REQUIREMENTS:
 - File naming convention for movies: /home/'user'/Ent/Movies
 
 - File naming convention for TV shows: /home/'user'/Ent/TvShows/Season#
-
-  *** IN YOUR TvShows FOLDER MAKE SURE YOU HAVE A FOLDER CALLED "Singles" 
-  *** THAT IS FOR SINGLE SHOWS WITHOUT SEASONS.
+  - IN YOUR TvShows FOLDER MAKE SURE YOU HAVE A FOLDER CALLED "Singles"
+     THAT IS FOR SINGLE SHOWS WITHOUT SEASONS.
   
 THE PROGRAMS:
 - W2W.py:
